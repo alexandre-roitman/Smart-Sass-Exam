@@ -2,7 +2,7 @@ Smart Sass Exam
 ===============
 
 [Sass](http://sass-lang.com/) is a language that compiles into CSS. 
-It supports may useful features, such as nesting, variables, imports, inheritance, mixins and more. 
+It supports many useful features, such as nesting, variables, imports, inheritance, mixins and more. 
 
 In large projects with many Sass files, constantly compiling all the Sass files to CSS can be expensive during dev time.
 
